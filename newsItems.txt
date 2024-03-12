@@ -12,12 +12,6 @@
     "description": "A newly launched coalition of advocates for students’ safety bannered a strongly worded campaign on International Women’s Day that they believe will resonate with dozens of victims of campus-based sexual harassment across the country: to remove “predatory” educators’ license to teach once and for all."
   },
   {
-    "title": "Students Demand Removal of Abusive Teachers’ Licenses on Women’s Day",
-    "link": "https://www.philstar.com/headlines/2024/03/08/2339082/intl-womens-day-students-call-remove-sexual-abusers-license-teach",
-    "publicationDate": "Fri, 8 Mar 2024 17:21:00 +0800",
-    "description": "A newly launched coalition of advocates for students’ safety bannered a strongly worded campaign on International Women’s Day that they believe will resonate with dozens of victims of campus-based sexual harassment across the country: to remove “predatory” educators’ license to teach once and for all."
-  },
-  {
     "title": "Call for Action Against Predatory Educators on International Women’s Day",
     "link": "https://www.philstar.com/headlines/2024/03/08/2339082/intl-womens-day-students-call-remove-sexual-abusers-license-teach",
     "publicationDate": "Fri, 8 Mar 2024 17:21:00 +0800",
@@ -28,30 +22,6 @@
     "link": "https://www.philstar.com/headlines/2024/03/08/2339082/intl-womens-day-students-call-remove-sexual-abusers-license-teach",
     "publicationDate": "Fri, 8 Mar 2024 17:21:00 +0800",
     "description": "A newly launched coalition of advocates for students’ safety bannered a strongly worded campaign on International Women’s Day that they believe will resonate with dozens of victims of campus-based sexual harassment across the country: to remove “predatory” educators’ license to teach once and for all."
-  },
-  {
-    "title": "SM Green Finds: Doing green business with women-led enterprises",
-    "link": "https://businessmirror.com.ph/2024/03/08/sm-green-finds-doing-green-business-with-women-led-enterprises/?utm_source=rss&utm_medium=rss&utm_campaign=sm-green-finds-doing-green-business-with-women-led-enterprises",
-    "publicationDate": "Fri, 08 Mar 2024 03:48:50 +0000",
-    "description": "\n<p>March is Women’s Month, and this is a good opportunity to honor and celebrate these women-led enterprises that not only help promote the well-being of our communities but that of our planet as well.</p>"
-  },
-  {
-    "title": "Celebrating women at the helm",
-    "link": "https://businessmirror.com.ph/2024/03/08/celebrating-women-at-the-helm/?utm_source=rss&utm_medium=rss&utm_campaign=celebrating-women-at-the-helm",
-    "publicationDate": "Fri, 08 Mar 2024 02:06:48 +0000",
-    "description": "\n<p>Today is International Women’s Day. It is a global celebration of the socio, economic, cultural and political achievements of women. Each year, this day serves as a powerful reminder of the progress made towards gender equality and highlights the work that still needs to be done. </p>"
-  },
-  {
-    "title": "Grab fortifies commitment to inclusive economic empowerment for women through GrabAsenso",
-    "link": "https://businessmirror.com.ph/2024/03/08/grab-fortifies-commitment-to-inclusive-economic-empowerment-for-women-through-grabasenso/?utm_source=rss&utm_medium=rss&utm_campaign=grab-fortifies-commitment-to-inclusive-economic-empowerment-for-women-through-grabasenso",
-    "publicationDate": "Thu, 07 Mar 2024 23:31:00 +0000",
-    "description": "\n<p><em>New initiatives and features aim at lowering barriers for women to gain equitable access to earning opportunities on Grab’s platform</em></p>"
-  },
-  {
-    "title": "The woman behind MR.DIY’s 500 stores strong",
-    "link": "https://businessmirror.com.ph/2024/03/08/the-woman-behind-mr-diys-500-stores-strong/?utm_source=rss&utm_medium=rss&utm_campaign=the-woman-behind-mr-diys-500-stores-strong",
-    "publicationDate": "Thu, 07 Mar 2024 23:14:00 +0000",
-    "description": "\n<p><em>MR.DIY Philippines celebrates remarkable milestone under the leadership of CEO Roselle Andaya</em>. </p>"
   },
   {
     "title": "Michelle Garcia-Arce: Brand builder",
@@ -70,30 +40,6 @@
     "link": "https://businessmirror.com.ph/2024/03/08/honor-the-inspiring-women-in-our-lives-with-essential-gifts-from-urbanize/?utm_source=rss&utm_medium=rss&utm_campaign=honor-the-inspiring-women-in-our-lives-with-essential-gifts-from-urbanize",
     "publicationDate": "Thu, 07 Mar 2024 23:06:00 +0000",
     "description": "\n<p>March of every year is <strong>International</strong> <strong>Women’s Month</strong>, a worldwide celebration that honors women’s extraordinary contributions to society and nation building. </p>"
-  },
-  {
-    "title": "North-Diamond Consumer Goods joins Worldbex 2024",
-    "link": "https://businessmirror.com.ph/2024/03/08/north-diamond-consumer-goods-joins-worldbex-2024/?utm_source=rss&utm_medium=rss&utm_campaign=north-diamond-consumer-goods-joins-worldbex-2024",
-    "publicationDate": "Thu, 07 Mar 2024 23:04:00 +0000",
-    "description": "\n<p>North-Diamond Consumer Goods Trading the official Philippine distributor of fleuresse a premium German bedware brand is set to make its debut in the institutional market at the Worldbex 2024 tradeshow.</p>"
-  },
-  {
-    "title": "CARD Pioneer hosts global microinsurance forum to share PHL best practices in financial inclusion ",
-    "link": "https://businessmirror.com.ph/2024/03/08/card-pioneer-hosts-global-microinsurance-forum-to-share-phl-best-practices-in-financial-inclusion/?utm_source=rss&utm_medium=rss&utm_campaign=card-pioneer-hosts-global-microinsurance-forum-to-share-phl-best-practices-in-financial-inclusion",
-    "publicationDate": "Thu, 07 Mar 2024 23:04:00 +0000",
-    "description": "\n<p>The country’s first microinsurance company, CARD Pioneer Microinsurance Inc. (CMPI), is hosting the Microinsurance Master accelerator program in the Philippines for the fourth time to share best practices in how to pursue and promote financial inclusion for the low-income market segment. </p>"
-  },
-  {
-    "title": "Paid day-off for Organon employees on Int’l Women’s Day; employees encouraged to focus on their health",
-    "link": "https://businessmirror.com.ph/2024/03/08/paid-day-off-for-organon-employees-on-intl-womens-day-employees-encouraged-to-focus-on-their-health/?utm_source=rss&utm_medium=rss&utm_campaign=paid-day-off-for-organon-employees-on-intl-womens-day-employees-encouraged-to-focus-on-their-health",
-    "publicationDate": "Thu, 07 Mar 2024 23:02:00 +0000",
-    "description": "\n<p><em>On March 8, 2024, Organon declared paid time off for all employees to focus on their health and well-being; and invited other organizations to help drive progress in women’s health</em></p>"
-  },
-  {
-    "title": "‘Golda’: The untold story of Israel’s Iron Lady, exclusively on Lionsgate Play",
-    "link": "https://businessmirror.com.ph/2024/03/08/golda-the-untold-story-of-israels-iron-lady-exclusively-on-lionsgate-play/?utm_source=rss&utm_medium=rss&utm_campaign=golda-the-untold-story-of-israels-iron-lady-exclusively-on-lionsgate-play",
-    "publicationDate": "Thu, 07 Mar 2024 23:02:00 +0000",
-    "description": "\n<p><em>Discover the intense drama behind the 1973 Arab–Israeli War when ‘Golda’ premieres on Lionsgate Play on March 8.</em></p>"
   },
   {
     "title": "Right-of-way issues hound Metro Manila subway–DOTr",
